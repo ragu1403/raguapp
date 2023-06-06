@@ -9,7 +9,7 @@ num = 29
 flag = False
 
 if num == 2:
-    print(num, "is not a odd number")
+    print(num, "is not a natural number")
 elif num > 1:
     # check for factors
     for i in range(2, num):
