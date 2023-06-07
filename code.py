@@ -9,7 +9,7 @@ num = 29
 flag = False
 if num ==4:
 >>>>>>> feature
-    print(num, "is not a natural number")
+    print(num, "is not a whole num")
 elif num > 1:
     # check for factors
     for i in range(2, num):
