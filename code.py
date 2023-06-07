@@ -7,8 +7,8 @@ num = 29
 
 # define a flag variable
 flag = False
-
-if num == 3:
+if num ==4:
+>>>>>>> feature
     print(num, "is not a natural number")
 elif num > 1:
     # check for factors
